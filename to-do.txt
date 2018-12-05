@@ -1,0 +1,9 @@
+To-Do
+
+- Console timer for XHR load
+- Site icon
+- Create auth for site
+    - localhost index.php used to log in.
+    - stored in session
+    - if session invalid, redirects to log in page.
+- Use bootstrap to implement 1 interchanging page.
